@@ -1,3 +1,12 @@
+# Calcula a quantidade de tijolo por m2.
+
+### Aplicação desenvolvida com Electron, HTML, CSS e Javascript.
+
+![image](https://user-images.githubusercontent.com/101942554/188521655-91cbcdbe-28c4-4bce-b6b8-4598b1557f4b.png)
+
+
+
+
 # electron-quick-start
 
 **Clone and run for a quick way to see Electron in action.**
