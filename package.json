@@ -1,0 +1,27 @@
+{
+  "name": "calculo",
+  "version": "1.0.0",
+  "description": "Calculo - m2",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager ./ --overwrite"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maykbrito/insta-post-reminder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maykbrito/insta-post-reminder/issues"
+  },
+  "homepage": "https://github.com/maykbrito/insta-post-reminder#readme",
+  "devDependencies": {
+    "electron": "^12.2.3"
+  },
+  "dependencies": {
+    "electron-packager": "^16.0.0"
+  }
+}

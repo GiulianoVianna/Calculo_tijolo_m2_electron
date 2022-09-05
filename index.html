@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./styles.css" rel="stylesheet">
+    <script src="./calculo.js"></script>
+    <title>*** Tijolos por m2 ***</title>
+</head>
+
+<body>
+    <fieldset>
+        <legend>Calculo de Tijolos por m2</legend>
+        <p>
+        <select id="id_tijolo" class="combo_box">
+            <option>Tipo de tijolo</option>
+            <option>6 furos</option>
+            <option>8 furos</option>
+            <option>9 furos</option>
+        </select>
+        <p>
+            <label>Largura: </label>
+            <input id="largura" type="text" class="alinhamento"> m </br>
+        <p>
+            <label>Altura:</label>
+            <input id="altura" type="text" class="alinhamento"> m </br>
+        <p>
+            <label>Total m2: </label>
+            <input id="valor" type="text" class="alinhamento"disabled> m</br>
+        <p>
+            <label>Qt. tijolos: </label>
+            <input id="resultado" type="text" class="alinhamento"disabled> un </br>
+        <p>
+            <button type="button" id="calcular" class="btn_calcular" onclick="calculo()">Calcular</button>
+
+            <button type="button" id="limpar" class="btn_limpar" onclick="limpar()">Limpar</button>
+
+    </fieldset>
+
+</body>
+
+</html>

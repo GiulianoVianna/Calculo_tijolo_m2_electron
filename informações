@@ -1,0 +1,1 @@
+electron-packager ./ caluculo --platform=linux --arch=x64 --out /home/giuliano/Documentos/java_script/projeto_electron_python1 --version 1.0.1 --overwrite

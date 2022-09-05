@@ -1,0 +1,6 @@
+Executar dentro do diretório via CMD ou terminal do VS Code.
+
+npm install 
+
+npm start
+

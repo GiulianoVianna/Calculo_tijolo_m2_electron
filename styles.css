@@ -1,0 +1,45 @@
+fieldset{
+    width: 300px;
+    margin-left: 20px;
+    margin-top: 10px;
+    border-color: blue;
+}
+
+legend{
+    background-color:cornflowerblue;
+    color:white;
+}
+
+.combo_box{
+    margin-left: 20px;
+    background-color:cornflowerblue;
+    color:white;
+}
+
+label{
+    display: inline-block;
+    width: 80px;
+    margin: 0 20px;
+}
+
+.alinhamento {
+    width: 20%;
+    text-align: center;
+    color:darkblue; 
+}
+
+#calcular{
+    display: inline-block;
+    margin-left: 20px;
+    color:darkblue; 
+}
+
+#limpar{
+    display: inline-block;
+    
+    margin-left: 10px;
+    color:red; 
+}
+
+
+
