@@ -2,10 +2,9 @@
 
 ### Aplicação desenvolvida com Electron, HTML, CSS e Javascript.
 
+https://user-images.githubusercontent.com/101942554/188521984-e64a0960-303b-4e30-9483-df135e29be74.mp4
+
 ![image](https://user-images.githubusercontent.com/101942554/188521655-91cbcdbe-28c4-4bce-b6b8-4598b1557f4b.png)
-
-
-
 
 # electron-quick-start
 
